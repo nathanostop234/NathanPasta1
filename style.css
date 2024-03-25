@@ -1,13 +1,17 @@
 *{
   margin: 0;
   padding: 0;
+  
 }
+
 body{
   background: #CCCCCC;
 }
-p{
+
+p {
   text-aling: center;
 }
+
 em strong{
-  color: red;
+  color: #FF0000;
 }
