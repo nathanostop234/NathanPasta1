@@ -238,3 +238,6 @@ td, th {
 	margin: 2em auto;
 }
 
+.itens:before {
+	content:"⛧";
+}
